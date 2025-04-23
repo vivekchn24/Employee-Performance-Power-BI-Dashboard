@@ -27,8 +27,8 @@ This dashboard evaluates the performance of employees based on their daily activ
 -Inside the Folder
 
 ## Repository Contains
--School,Staff,Students Data CSV FilesF
--Images for Dashboard
--Dashboard Screenshot For Work 
--Power-BI-File
--Dashboard Report PDF
+  -School,Staff,Students Data CSV FilesF
+  -Images for Dashboard
+  -Dashboard Screenshot For Work 
+  -Power-BI-File
+  -Dashboard Report PDF
